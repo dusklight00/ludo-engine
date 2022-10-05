@@ -1,0 +1,14 @@
+{
+  "name": "ludo-engine",
+  "version": "1.0.0",
+  "main": "engine.js",
+  "scripts": {
+    "start": "nodemon engine.js"
+  },
+  "repository": "https://github.com/dusklight00/ludo-engine.git",
+  "author": "Dusk Light <r.rahul.developer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
